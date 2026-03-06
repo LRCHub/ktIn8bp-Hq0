@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "悪夢",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2026-03-06T08:52:14.149309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪夢",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_悪夢_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪夢",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/02_悪夢_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悪夢 (Off Vocal)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/03_悪夢_(Off_Vocal)_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NIGHTMARE 悪夢",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/04_NIGHTMARE_悪夢_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悪夢 -wake up-",
+      "artist": "PENTAGON",
+      "has_synced": true,
+      "path": "select/05_悪夢_-wake_up-_PENTAGON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NIGHTMARE 悪夢",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/06_NIGHTMARE_悪夢_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "悪夢",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/07_悪夢_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "悪夢",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/08_悪夢_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NIGHTMARE 悪夢",
+      "artist": "Nakamori, Akina",
+      "has_synced": true,
+      "path": "select/09_NIGHTMARE_悪夢_Nakamori,_Akina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪夢",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_悪夢_キタニタツヤ.txt"
+    }
+  ]
+}
